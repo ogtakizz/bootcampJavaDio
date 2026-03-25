@@ -1,4 +1,4 @@
-//  Escreva um codigo que receba o tamanho do lado de um quadrado, calcule sua area e exiba na tela
+package exercicios;//  Escreva um codigo que receba o tamanho do lado de um quadrado, calcule sua area e exiba na tela
 //  formula: area = lado x lado
 
 import java.util.Random;

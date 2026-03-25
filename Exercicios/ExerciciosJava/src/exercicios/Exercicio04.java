@@ -1,4 +1,4 @@
-// Escreva um codigo que receba o nome e a idade de 2 pessoas e imprima a diferenca de idade entre elas
+package exercicios;// Escreva um codigo que receba o nome e a idade de 2 pessoas e imprima a diferenca de idade entre elas
 
 import java.util.Scanner;
 

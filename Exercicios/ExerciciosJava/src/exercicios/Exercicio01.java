@@ -1,4 +1,4 @@
-//  Escreva um codigo que receba o nome e o ano de nascimento de alguem e imrpima na tela a seguinte mensagem:
+package exercicios;//  Escreva um codigo que receba o nome e o ano de nascimento de alguem e imrpima na tela a seguinte mensagem:
 //  "Ola 'Fulano' Voce tem 'X' anos"
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-//  Escreva um codigo que receba a base e a altura de um retangulo, calcule sua area e exiba na tela
+package exercicios;//  Escreva um codigo que receba a base e a altura de um retangulo, calcule sua area e exiba na tela
 //  formula: area = base x altura
 
 import java.util.Random;
